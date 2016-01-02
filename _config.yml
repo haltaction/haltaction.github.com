@@ -12,7 +12,7 @@ title : haltaction blog
 tagline: haltaction
 author :
   name : Vladimir Fialkovskiy
-  email : -
+  #email : -
   github : haltaction
   twitter : haltaction
 
